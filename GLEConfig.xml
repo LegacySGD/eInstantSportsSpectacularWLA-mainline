@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family code="2224" desc="Lottery Game" organizationName="Interactive" studio="crdc">
+	<game name="Sports Spectacular WLA" version="1.0.18" gameengineversion="2" gamelogicversion="1.0"
+		  number="0"
+		  jackpotid=""
+		  gametype="L"
+		  loadprevstate="N"
+		  numberGenerator="RNG"
+		  betMultipliers="10,20,50,100,200,300,500,550,750,1000,2000,3000,4000,5000"
+		  spots=""
+		  productId="1"
+		  gamegroup="eGames"
+		  languages="en,en_US,de_BE,fr_BE,nl_BE,pl_PL,en_NZ,tr_TR,nb_NO"
+		  skbPlatformVersion="1.4.0"
+		  merchandisePrize="N"
+		  stateful="N">
+
+		<!-- ZER -->
+		<!--<paymodel modelid="300-2224-099" revealId="2224" revealVersionId="2224"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-099"
+				  hibethold="7" lobethold="7"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-099" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-099" clienttype="HTML" configcode="PHLP" />-->
+
+		<!-- LNB -->
+		<paymodel modelid="300-2224-001" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-001"
+				  hibethold="31.00" lobethold="31.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-001" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-001" clienttype="HTML" configcode="PHLP" />
+
+		<!-- PLT -->
+		<paymodel modelid="300-2224-002" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-002"
+				  hibethold="18.00" lobethold="18.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-002" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-002" clienttype="HTML" configcode="PHLP" />
+
+		<!-- GA -->
+		<paymodel modelid="300-2224-003" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-003"
+				  hibethold="22.00" lobethold="22.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-003" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-003" clienttype="HTML" configcode="PHLP" />
+
+		<!-- KY -->
+		<paymodel modelid="300-2224-004" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-004"
+				  hibethold="15.00" lobethold="15.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-004" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-004" clienttype="HTML" configcode="PHLP" />
+
+		<!-- LNZ -->
+		<paymodel modelid="300-2224-005" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-005"
+				  hibethold="38.00" lobethold="38.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-005" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-005" clienttype="HTML" configcode="PHLP" />
+
+		<!-- 70% TUR ₺3, ₺5.50, ₺7.50, ₺10, ₺20, ₺30, ₺40 & ₺50 -->
+		<paymodel modelid="300-2224-006" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-006"
+				  hibethold="30.00" lobethold="30.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-006" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-006" clienttype="HTML" configcode="PHLP" />
+
+		<!-- 65% TUR ₺3, ₺5.50, ₺7.50, ₺10, ₺20, ₺30, ₺40 & ₺50 -->
+		<paymodel modelid="300-2224-007" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-007"
+				  hibethold="35.00" lobethold="35.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-007" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-007" clienttype="HTML" configcode="PHLP" />
+
+		<!-- NT kr1, kr2, kr3, kr5, kr10 & kr20 -->
+		<paymodel modelid="300-2224-008" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-008"
+				  hibethold="20.00" lobethold="20.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-008" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-008" clienttype="HTML" configcode="PHLP" />
+
+		<!-- RI -->
+		<paymodel modelid="300-2224-009" revealId="4680" revealVersionId="4674"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Sports Spectacular WLA : 300-2224-009"
+				  hibethold="15.00" lobethold="15.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig modelid="300-2224-009" clienttype="HTML" configcode="IXML" />
+		<paymodelConfig modelid="300-2224-009" clienttype="HTML" configcode="PHLP" />
+
+		<denom currencycode="EUR" amount="0.01"/>
+        <denom currencycode="FUN" amount="0.01"/>  
+        <denom currencycode="NOK" amount="0.01"/>
+		<denom currencycode="NZD" amount="0.01,0.02"/>
+		<denom currencycode="PLN" amount="0.01,0.05"/>
+        <denom currencycode="TRY" amount="0.01"/>
+		<denom currencycode="USD" amount="0.01,0.02"/>
+	</game>
+
+</family>
